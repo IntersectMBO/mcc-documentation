@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Membership and Community Working Group
 
 ## Purpose / Goal
 
