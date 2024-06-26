@@ -6,10 +6,11 @@
 This page will be updated on a regular basis as the committee on-boards new working groups.
 {% endhint %}
 
+There are presently no working groups with an active remit and regular report in to the MCC. This page will be updated when new WGs are created.
 
 
-| Working Group Name                 | Gitbook Page                                                                                                                | Discord Channel                                                                         |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Fundraising                        | [Fundraising Working Group](https://intersect.gitbook.io/intersect-working-groups/working-groups/fundraising-working-group) | [#wg-fundraising](https://discord.com/channels/1136727663583698984/1235598092716216340) |
-| Business Development (Coming Soon) |                                                                                                                             |                                                                                         |
-|                                    |                                                                                                                             |                                                                                         |
+
+| Working Group Name | Gitbook Page | Discord Channel |
+| ------------------ | ------------ | --------------- |
+|                    |              |                 |
+|                    |              |                 |
