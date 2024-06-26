@@ -2,7 +2,7 @@
 
 ## What is the Membership and Community Committee?
 
-The Membership and Community Committee (MCC) fosters a thriving Cardano community through effective Intersect membership sales, account management, community support, tooling grants, education, and engaging events.
+The Membership and Community Committee (MCC) fosters a thriving Cardano community by understanding the interests of Intersect members and stakeholders, and advising Intersect staff on how to work with them in areas such as membership sales and account management, community support, tooling grants, education, and engaging events.
 
 ## Why is this committee important?
 
@@ -12,13 +12,11 @@ It devises strategies to engage community members, promote collaboration, and en
 
 The MCC oversees membership within Intersect and, by doing so, ensures that each member has access to benefits and opportunities for fuller participation in Cardano’s growth and development.&#x20;
 
-
-
 ### MCC Meetings
 
-Committee Meetings - The MCC currently meets weekly on a Tuesday, the time varies as we rotate this to ensure we can have regular inputs from the committee and community members around the world.  The meeting notes will be published under the "Committee Meeting Notes" section of this space. &#x20;
+The MCC currently meets weekly on a Tuesday, the time varies as we rotate this to ensure we can have regular inputs from the committee and community members around the world.  The meeting notes will be published under the "Committee Meeting Notes" section of this space. &#x20;
 
-Office Hours - The MCC are also exploring holding "Office Hour" Sessions so the community can come and learn more about the committee, discuss ideas, ask questions and provide feedback.  We hope to have these up and running by the end of May 24.
+The committee is, as of June '24, looking into ways to extend its service of Intersect's members and stakeholders through more outreach and communication.
 
 ## How to contact us
 

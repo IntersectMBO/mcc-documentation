@@ -3,10 +3,10 @@
 ## ABOUT
 
 * [About Membership and Community Committee (MCC)](README.md)
-* [Committee Members](about/committee-members/README.md)
-  * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
+* [Committee Members](about/committee-members.md)
 * [Working Groups](about/working-groups.md)
 * [Interest Groups](about/interest-groups.md)
+* [Basic Policy Framework (WIP)](about/basic-policy-framework-wip.md)
 * [How to Join or Contact us?](about/how-to-join-or-contact-us.md)
 
 ## Committee Meeting Notes
