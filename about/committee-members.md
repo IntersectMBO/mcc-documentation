@@ -2,6 +2,16 @@
 
 The members of the MCC work to protect and advance the interests of Intersect's members and stakeholders by understanding the Cardano ecosystem and advising Intersect staff and other Committees.&#x20;
 
+## Committee Composition
+
+2 Co-Chairs (Assuming the role of 1 chair)
+
+1 Secretary
+
+9 Seats  &#x20;
+
+###
+
 ### Chair
 
 * Mark Byers
