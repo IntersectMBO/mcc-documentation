@@ -43,3 +43,14 @@ Working group lead: Matthew Capps
 
 Key focus area POC: Karen Wickham and Tex McCutcheon&#x20;
 
+
+
+## Grants WG Remit:
+
+Working group lead: Katarina Ciric
+
+1. Work with Intersect POC to assess and improve the Intersect grant program
+2. Work with the Budget Committee to create a framework for the "Outreach and Education" and "Community Grants" buckets of the Cardano budget.
+
+Key focus area POC: Gemma Dakin&#x20;
+

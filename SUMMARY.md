@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [About Membership and Community Committee (MCC)](README.md)
+* [About the Membership and Community Committee (MCC)](README.md)
 * [Committee Members](about/committee-members.md)
 * [Working Groups](about/working-groups.md)
 * [Special Interest Groups](about/interest-groups.md)
