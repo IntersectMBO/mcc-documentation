@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Contributing to the Membership and Community Committee documentation](#contributing-to-the-Membership and Community-committee-documentation)
+- [Contributing to the Membership and Community Committee documentation](#contributing-to-the-Membership-and-Community-committee-documentation)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)
@@ -30,7 +30,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 ### Setup
 
 1. **Fork the repository:**
-   - Navigate to  https://github.com/Membership and Community/Membership and Community-committee-documentation
+   - Navigate to  https://github.com/IntersectMBO/mcc-documentation
    - Press the `Fork` button and make a fork of the repository.
 
 2. **Clone the fork:**
@@ -38,13 +38,13 @@ Note that you might need to get approvals from all code owners (even though GitH
    - Navigate to the directory where you want to store the project.
    - Run the following command to clone the repository:
      ```shell
-     git clone https://github.com/Membership and Community/Membership and Community-committee-documentation.git
+     git clone https://github.com/IntersectMBO/mcc-documentation.git
      ```
 
 3. **Navigate to the Project Directory:**
    - After cloning, change into the project's root directory:
      ```shell
-     cd Membership and Community-committee-documentation
+     cd mcc-documentation
      ```
 
 ### Make changes
