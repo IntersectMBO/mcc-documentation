@@ -1,5 +1,7 @@
 # Committee Meeting Notes
 
+Please note there is a New format for the Minutes of each Meeting, These will cascade on the left. For Agendas, Please continue to see below, until further updates are made.&#x20;
+
 Here are a few notes on how to read the proceedings of the Membership and Community Committee.&#x20;
 
 * Each agenda item is separated into two sections.&#x20;

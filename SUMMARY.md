@@ -11,4 +11,5 @@
 
 ***
 
-* [Committee Meeting Notes](committee-meeting-notes.md)
+* [Committee Meeting Notes](committee-meeting-notes/README.md)
+  * [Meeting Minutes October 22, 2024](committee-meeting-notes/meeting-minutes-october-22-2024.md)
