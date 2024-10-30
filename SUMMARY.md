@@ -13,3 +13,4 @@
 
 * [Committee Meeting Notes](committee-meeting-notes/README.md)
   * [Meeting Minutes October 22, 2024](committee-meeting-notes/meeting-minutes-october-22-2024.md)
+  * [Meeting Minutes October 29, 2024](committee-meeting-notes/meeting-minutes-october-29-2024.md)
