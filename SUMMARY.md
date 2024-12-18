@@ -19,3 +19,4 @@
   * [Meeting Minutes November 19, 2024](committee-meeting-notes/meeting-minutes-november-19-2024.md)
   * [Meeting Minutes November 26, 2024](committee-meeting-notes/meeting-minutes-november-26-2024.md)
   * [Meeting Minutes December 10, 2024](committee-meeting-notes/meeting-minutes-december-10-2024.md)
+  * [Meeting Minutes December 17, 2024](committee-meeting-notes/meeting-minutes-december-17-2024.md)
