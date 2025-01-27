@@ -18,10 +18,15 @@
 
 Other Attendees:
 
+* Abhik Nag
 * Daniel RIbar
-
-\
-
+* Gemma Dakin
+* Jack Briggs
+* Kit Willow
+* Mercy
+* Olivier rishi Matabaro
+* Thiago Nunes
+* TK Princewill
 
 **Recording:** [Membership & Community Committee - Meeting - 2025/01/21 13:58 GMT - Recording](https://drive.google.com/file/d/1mVjNcjxviMulfS7ZNc0JKMBsLyX9O0Iu/view?usp=sharing)
 
