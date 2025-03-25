@@ -23,3 +23,6 @@
   * [Meeting Minutes January 7, 2025](committee-meeting-notes/meeting-minutes-january-7-2025.md)
   * [Meeting Minutes January 21, 2025](committee-meeting-notes/meeting-minutes-january-21-2025.md)
   * [Meeting Minutes February 04, 2025](committee-meeting-notes/meeting-minutes-february-04-2025.md)
+  * [Meeting Minutes February 18, 2025](committee-meeting-notes/meeting-minutes-february-18-2025.md)
+  * [Meeting Minutes March 04, 2025](committee-meeting-notes/meeting-minutes-march-04-2025.md)
+  * [Meeting Minutes March 18, 2025](committee-meeting-notes/meeting-minutes-march-18-2025.md)
