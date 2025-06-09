@@ -18,7 +18,7 @@
 
 **Other Attendees:**
 
-* Alexandre Maaza, Gonzalo's Notetaker, Hannah Williams, Jay Des, Kriss Baird, Lawrence Clark, Terence McCutcheon, Thiago Nunes.
+* Alexandre Maaza, Hannah Williams, Jay Des, Kriss Baird, Lawrence Clark, Terence McCutcheon, Thiago Nunes.
 
 **Recording:** [Membership & Community Committee - Meeting - 2025/03/04 13:41 GMT - Recording](https://drive.google.com/drive/u/3/folders/1HYrSOEZfqCeAlr7e-zwlVeVq7oFKuT3O)
 
