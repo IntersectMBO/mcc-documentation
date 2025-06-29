@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meeting Minutes June 10, 2025
 
 ## Attendees:&#x20;
