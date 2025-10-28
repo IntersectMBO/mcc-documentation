@@ -35,7 +35,6 @@
     * [Meeting Minutes September 2, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-september-2-2025.md)
     * [Meeting Minutes September 16, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-september-16-2025.md)
     * [Meeting Minutes September 30, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-september-30-2025.md)
-    * [Meeting Minutes October 07, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-october-07-2025.md)
     * [Meeting Minutes October 14, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-october-14-2025.md)
     * [Meeting Minutes October 21, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-october-21-2025.md)
     * [Meeting Minutes October 28, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-october-28-2025.md)
