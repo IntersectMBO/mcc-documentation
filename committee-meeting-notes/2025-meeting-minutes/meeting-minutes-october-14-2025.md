@@ -30,17 +30,17 @@ Other Attendees:
 
 ## Intros
 
-Akheel: Logistician by profession\
-Boaz: TBD\
-Darlington: Cardano Ambassador, Co-Dream @ Cardano over Coffee, 2 lovelaces, LidoNation\
-Fanny: Cardano Ambassador Indonesia, Founder: Cardano Woman & Cardano Hub Indonesia\
-Ha: Eastern Cardano Council-ICC Member, Cardano Ambassador, DRep Pioneer Leader\
-Laurentine: TBD\
-Matthew: Elected member, WG lead, Employed by IO\
-Maureen: MCC Vice Chair, Web developer, Founder @ Giiyo Tech\
-Nathan: TBD\
-Sanjaya: MCC Member, Community Manager Coin Ceylon\
-Tex: Open Source Program Manager, Intersect Staff, OSC/GMC Secretary
+**Akheel:** Logistician by profession\
+**Boaz:** TBD\
+**Darlington:** Cardano Ambassador, Co-Dream @ Cardano over Coffee, 2 lovelaces, LidoNation\
+**Fanny:** Cardano Ambassador Indonesia, Founder: Cardano Woman & Cardano Hub Indonesia\
+**Ha:** Eastern Cardano Council-ICC Member, Cardano Ambassador, DRep Pioneer Leader\
+**Laurentine:** TBD\
+**Matthew:** Elected member, WG lead, Employed by IO\
+**Maureen:** MCC Vice Chair, Web developer, Founder @ Giiyo Tech\
+**Nathan:** TBD\
+**Sanjaya:** MCC Member, Community Manager Coin Ceylon\
+**Tex:** Open Source Program Manager, Intersect Staff, OSC/GMC Secretary
 
 ## Agenda 10.14.25
 
@@ -52,21 +52,21 @@ Tex: Open Source Program Manager, Intersect Staff, OSC/GMC Secretary
 
 **Decisions**
 
-* Hubs Strategy Relaunch: Fanny and Sanjaya will lead a renewed effort to address the inactive hubs, which includes:
-* Scheduling a meeting with current and prospective new hub leaders.
-* Developing a proposal to submit for Catalyst Fund 15 to secure funding for community hub activities.
-* Committee Elections Promotion: The MCC members agreed to continue their promotional efforts for the ongoing committee elections (deadline October 24th) by:
-* Retweeting the promotional videos from their individual accounts.
-* Exploring the creation of an Intersect thread that compiles all committee election videos.
-* Town Hall Participation: It was decided that an MCC representative (Fanny or Sanjaya were suggested) would speak at the Town Hall on October 30th to provide an update on MCC activities, including the next steps for hubs.
-* ClickUp Access Resolution: Terence agreed to personally assist Darlington with resolving his ClickUp 2FA issue and restoring access.
+* **Hubs Strategy Relaunch:** Fanny and Sanjaya will lead a renewed effort to address the inactive hubs, which includes:
+* Schedule a meeting with current and prospective new hub leaders.
+* Develop a proposal to submit for Catalyst Fund 15 to secure funding for community hub activities.
+* **Committee Elections Promotion:** The MCC members agreed to continue their promotional efforts for the ongoing committee elections (deadline October 24th) by:
+* Retweet promotional videos from their individual accounts.
+* Explore the creation of an Intersect thread that compiles all committee election videos.
+* **Town Hall Participation:** It was decided that an MCC representative (Fanny or Sanjaya were suggested) would speak at the Town Hall on October 30th to provide an update on MCC activities, including the next steps for hubs.
+* **ClickUp Access Resolution:** Terence agreed to personally assist Darlington with resolving his ClickUp 2FA issue and restoring access.
 
 **Actions**
 
-* Terence: Send the link to the Annual Member Survey to Abhik.
-* Abhik: Check on the possibility of getting a summary of membership drop-outs by country/region.
-* Fanny, Sanjaya, and Akheel: Schedule and host a meeting for existing and potential hub leaders to discuss a path forward and a possible Fund 15 proposal.
-* Fanny & Sanjaya: Visit the Town Hall on October 30th to provide an update on hubs and encourage attendance for the next hubs meeting.
+* **Terence:** Send the link to the Annual Member Survey to Abhik.
+* **Abhik:** Check on the possibility of getting a summary of membership drop-outs by country/region.
+* **Fanny, Sanjaya, and Akheel:** Schedule and host a meeting for existing and potential hub leaders to discuss a path forward and a possible Fund 15 proposal.
+* **Fanny & Sanjaya:** Visit the Town Hall on October 30th to provide an update on hubs and encourage attendance for the next hubs meeting.
 * **All MCC Members:** Encourage potential candidates to apply for committee elections, especially for TSC, Budget, Civics, and Product Committee, before the October 24th deadline. Retweet the committee election videos/posts.
 * **Fanny:** Share the news about the upcoming hub meeting with interested parties, including Andreas for Indonesia.
 
