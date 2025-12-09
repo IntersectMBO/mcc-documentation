@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meeting Minutes November 25, 2025
 
 ## Attendees:&#x20;
@@ -48,7 +44,8 @@ Tex: Open Source Program Manager, Intersect Staff, OSC/GMC Secretary
 
 ## Agenda 11.25.25
 
-* See Agenda Here:&#x20;
+* No formal Agenda set
+* Carryover from previous meetings&#x20;
 
 ## Decisions/Actions
 

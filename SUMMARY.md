@@ -41,7 +41,7 @@
     * [Meeting Minutes November 04, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-november-04-2025.md)
     * [Meeting Minutes November 18, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-november-18-2025.md)
     * [Meeting Minutes November 25, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-november-25-2025.md)
-    * [Meeting Minutes November 25, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-november-25-2025-1.md)
+    * [Meeting Minutes December 2, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-december-2-2025.md)
     * [Meeting Minutes December 09, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-december-09-2025.md)
     * [Meeting Minutes December 16, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-december-16-2025.md)
     * [Meeting Minutes January 30, 2026](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-january-30-2026.md)
