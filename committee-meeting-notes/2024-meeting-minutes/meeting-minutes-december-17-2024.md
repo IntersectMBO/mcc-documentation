@@ -62,8 +62,7 @@ Other Attendees:
 ## Decisions/Actions
 
 * **Decision:** Member Expectations Policy **Action:** Approved with provisions for member dismissal and potential extensions through committee vote
-* **Decision:** N/A **Action:** Agreed to focus the MCC budget on goals and KPIs rather than vendor selection during the budgeting phase.\
-
+* **Decision:** N/A **Action:** Agreed to focus the MCC budget on goals and KPIs rather than vendor selection during the budgeting phase.<br>
 
 | Discussion Point                          | Notes                                                                                                                                                                                                                                                                                                                                                                                                | Actions: Responsible / Note                                                                                                                                                                                  |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

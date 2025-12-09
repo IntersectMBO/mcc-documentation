@@ -1,4 +1,4 @@
-# Meeting Minutes January 7, 2024
+# Meeting Minutes January 7, 2025
 
 ## Attendees:&#x20;
 
@@ -70,8 +70,7 @@ Other Attendees:
 * Decision: N/A Action: DRep Engagement to be consolidated to avoid redundancy.
 * Decision: N/A Action: Majority of future votes to move to Asynchronous
 * Decision: N/A Action: Committee Members to begin using Task/Time Log
-* Decision: N/A Action: Budget: Gather community feedback, work async.l\
-
+* Decision: N/A Action: Budget: Gather community feedback, work async.l<br>
 
 | Discussion Point                         | Notes                                                                                                                                                                                                                                                                                                                          | Actions: Responsible / Note                                                                                                                                                                                   |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

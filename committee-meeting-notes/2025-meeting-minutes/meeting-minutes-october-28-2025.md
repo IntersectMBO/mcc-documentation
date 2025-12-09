@@ -87,4 +87,4 @@ Other Attendees:
 | Decision on Project Tool          | Final discussion on a project management tool. Abhik recommended ClickUp. Maureen was open but preferred a transferable system. Terence reiterated ClickUp is the official Intersect tool provided to all committees.                                                                                         | All committee members are requested to accept the ClickUp invitation and check out the tool before the next meeting.                                                                |
 | Next Meeting's Agenda             | The topics of Roles and Responsibilities and the Budget for 2026 were pushed to the next week's meeting.                                                                                                                                                                                                      | <p><br></p>                                                                                                                                                                         |
 
-\
+<br>

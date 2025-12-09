@@ -14,8 +14,7 @@ Intersect Groups struggle with financial management, leading to inefficiencies a
 
 The Trust & Identity SIG aims to connect Cardano community members and organizations around SSI, Identity, and Trust solutions. It promotes networking, highlights active contributors, and fosters community engagement. The group plans to create a directory, facilitate synergies, and host regular meetings with guest speakers to share insights and opportunities.
 
-\
-
+<br>
 
 {% content-ref url="https://app.gitbook.com/o/0JG1VfGZBLQtlxzxtpyh/s/EQKJj23wmYZgW7lKNG4g/" %}
 [Intersect Fundraising WG](https://app.gitbook.com/o/0JG1VfGZBLQtlxzxtpyh/s/EQKJj23wmYZgW7lKNG4g/)

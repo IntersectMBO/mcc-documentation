@@ -60,8 +60,7 @@ Other Attendees:
 
 ## Agenda 11.26.24
 
-* See Agenda Here: [Nov 26th MCC Meeting Agenda](https://docs.google.com/document/d/1GaBv8CxzFz0ehErIkjXoIkITeHcbyJgHnoYEwdkzTCg/edit?usp=sharing)\
-
+* See Agenda Here: [Nov 26th MCC Meeting Agenda](https://docs.google.com/document/d/1GaBv8CxzFz0ehErIkjXoIkITeHcbyJgHnoYEwdkzTCg/edit?usp=sharing)<br>
 
 | Discussion Point                | Notes                                                                                                                              | Actions: Responsible / Note                                                                                                                     |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |

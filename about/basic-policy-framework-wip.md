@@ -80,7 +80,7 @@ This document represents the minimum requirements for the comms and docs of Sub-
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-To use as an aid: [Monthly Checklist - Minimum stakeholder relations](https://docs.google.com/document/d/1NYK2xp46Rzusu4I\_tJlYljSdXPlhVOBzS-12PJDMRbw/edit)
+To use as an aid: [Monthly Checklist - Minimum stakeholder relations](https://docs.google.com/document/d/1NYK2xp46Rzusu4I_tJlYljSdXPlhVOBzS-12PJDMRbw/edit)
 
 
 
@@ -116,7 +116,7 @@ The default governance mode of Committees and Subcommittees is consensus-based e
 
 This makes the chair work out a natural balance for calling votes on his/her own initiative on the one hand, and on the other simply driving things forward where there is basic consensus. If the chair is mistaken, he/she can be checked by any member who suggests the action be put to a vote. See “decision brass tack rules” above.
 
-### Why this governance structure? 
+### Why this governance structure? <br>
 
 **Decision making** - Decisions are the primary output of a committee; it maintains and dispenses authority to act on shared problems through these decisions. For that reason, committees are structured to create consensus-based decisions, with legitimate and effective authority:
 
