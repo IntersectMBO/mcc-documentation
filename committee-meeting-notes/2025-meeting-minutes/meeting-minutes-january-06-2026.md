@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Meeting Minutes January 30, 2026
+# Meeting Minutes January 06, 2026
 
 ## Attendees:&#x20;
 
@@ -25,15 +21,13 @@ Other Attendees:
 * Terence McCutcheon
 * Chaya
 * Wilco van de Burgwal
-* Meek Owen's
-
-
+* Meek Owen's<br>
 
 Recording: [Membership & Community Committee - 2026/01/06 - Recording](https://drive.google.com/file/d/1Rwhf8fOrqZtHmKvoWqsbDM47eBcIfIdr/view?usp=drive_link)
 
 Transcript: [Membership & Community Committee - 2026/01/06 - Transcript](https://docs.google.com/document/d/1DHu3y95GN9iJfVv0euZh2usqHYrq_nELgdteajdKsJM/edit?usp=drive_link)
 
-Chat Transcript: [Membership & Community Committee - 2025/11/04 - Chat ](https://.com)
+Chat Transcript: [Membership & Community Committee - 2025/01/06 - Chat ](https://drive.google.com/file/d/1PWClnAcWVlJPA1v_oxtITEvFUGXv0-X7/view?usp=drive_link)
 
 ## Intros
 
@@ -73,6 +67,8 @@ Sanjaya: MCC Member, Community Manager Coin Ceylon
 * Workstream Leads: Rescope January–March tasks in ClickUp, separating "immediate execution" from "needs approval."
 * Abhik/Sanjaya: Schedule and promote the first official Monday X Space.
 * All Committee Members: Review the Miro board (shared via Discord) to ensure all personal task assignments are current in ClickUp.
+
+
 
 | Topic                         | Discussion                                                                                                                                                                                       | Notes                                                                                                               |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
