@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Special Interest Groups
 
 To get involved with any SIG, go directly to the MCC section of the Intersect discord, where each SIG has its own discord channel.
