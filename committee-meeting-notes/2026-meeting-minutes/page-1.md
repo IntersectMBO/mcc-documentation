@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meeting Minutes February 3, 2026
 
 ## Attendees:&#x20;
