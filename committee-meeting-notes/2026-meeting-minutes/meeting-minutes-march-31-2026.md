@@ -31,12 +31,10 @@ Other Attendees:
 * Wilco van de Burgwal
 * William Nyirenda
 
-
-
-Recording: [Membership & Community Committee (Intersect) - 2026/03/31 - Recording](https://drive.google.com/file/d/1EXW-GzRp9VF7EGR3A4dF2NWMQdoHEIMw/view?usp=sharing)<br>
-
-Transcript: [Membership & Community Committee (Intersect) - 2026/03/31 - Transcript](https://docs.google.com/document/d/1bpmuC73HAM0ys0spa2qRO-zsWBcdS_Mm91MGWdrFieQ/edit?usp=sharing)
-
+\
+Recording: [Membership & Community Committee (Intersect) - 2026/03/31 - Recording](https://drive.google.com/file/d/1EXW-GzRp9VF7EGR3A4dF2NWMQdoHEIMw/view?usp=sharing)\
+\
+Transcript: [Membership & Community Committee (Intersect) - 2026/03/31 - Transcript](https://docs.google.com/document/d/1bpmuC73HAM0ys0spa2qRO-zsWBcdS_Mm91MGWdrFieQ/edit?usp=sharing)\
 \
 Chat Transcript: To be added&#x20;
 
