@@ -2,20 +2,19 @@
 
 ## Attendees:&#x20;
 
-| Name                   | Attendance | Role            | Voting Seat (Y/N) | Election Cycle  |
-| ---------------------- | ---------- | --------------- | ----------------- | --------------- |
-| Sanjaya Wanigasekera   | Yes        | Chair (interim) | Y                 | April 2026      |
-| TBD                    | Yes        | Vice Chair      | Y                 | October 2026    |
-| Abhik Nag              | Yes        | Secretary       | N                 | N/A             |
-| Akheel Fouze           | Yes        | Member/Seat     | Y                 | October 2026    |
-| Ian McCullough         | Yes        | Member/Seat     | Y                 | October 2026    |
-| Jose Iadicicco         | No         | Member/Seat     | Y                 | October 2026    |
-| Olivier Rishi Mataboro | Yes        | Member/Seat     | Y                 | October 2026    |
-| Anuj Chaudhary         | Yes        | Member/Seat     | Y                 | April 2026 (2y) |
-| Boaz Balume            | Yes        | Member/Seat     | Y                 | April 2026 (2y) |
-| Fanny Wijaya           | Yes        | Member/Seat     | Y                 | April 2026 (2y) |
-| Martin Musagara        | Yes        | Member/Seat     | Y                 | April 2026 (2y) |
-| Olivier Mwatsimulamo   | Yes        | Member/Seat     | Y                 | April 2026 (2y) |
+| Name                   | Attendance | Role        | Voting Seat (Y/N) | Election Cycle  |
+| ---------------------- | ---------- | ----------- | ----------------- | --------------- |
+| Martin Musagara        | Yes        | Chair       | Y                 | April 2026 (2y) |
+| Sanjaya Wanigasekera   | Yes        | Vice Chair  | Y                 | April 2026      |
+| Abhik Nag              | Yes        | Secretary   | N                 | N/A             |
+| Akheel Fouze           | Yes        | Member/Seat | Y                 | October 2026    |
+| Ian McCullough         | Yes        | Member/Seat | Y                 | October 2026    |
+| Jose Iadicicco         | No         | Member/Seat | Y                 | October 2026    |
+| Olivier Rishi Mataboro | Yes        | Member/Seat | Y                 | October 2026    |
+| Anuj Chaudhary         | Yes        | Member/Seat | Y                 | April 2026 (2y) |
+| Boaz Balume            | Yes        | Member/Seat | Y                 | April 2026 (2y) |
+| Fanny Wijaya           | Yes        | Member/Seat | Y                 | April 2026 (2y) |
+| Olivier Mwatsimulamo   | Yes        | Member/Seat | Y                 | April 2026 (2y) |
 
 
 
