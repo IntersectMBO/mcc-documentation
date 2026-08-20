@@ -1,7 +1,5 @@
 # Meeting Minutes August 18, 2026
 
-Aug 18, 2026| Membership & Community Committee
-
 ## Attendees:&#x20;
 
 | Name                   | Attendance | Role        | Voting Seat (Y/N) | Election Cycle  |
