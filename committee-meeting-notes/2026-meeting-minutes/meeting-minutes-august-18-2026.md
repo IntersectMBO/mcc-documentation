@@ -48,7 +48,7 @@ Intros
 * Martin (Chair/DRC): Also from the GMA Hub team and the WADA network. He has been in the ecosystem for several years, contributing through education and technical onboarding.
 * Akheel: Logistician by profession
 
-## Agenda 18.04.26
+## Agenda 18.08.26
 
 * Cardano Vision 2030 KPI Framework – Committee Feedback Survey
 * Review of Committee Feedback Document
