@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Membership and Community Committee (MCC)
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect-Membership and Community Committee (MCC)
+      path: community-and-membership-committee
+      default: true
+      content:
+        directory: ./intersect-membership-community-committee
