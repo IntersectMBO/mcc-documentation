@@ -33,6 +33,7 @@
     * [Meeting Minutes September 1, 2026](committee-meeting-notes/2026-meeting-minutes/meeting-minutes-september-1-2026.md)
     * [Meeting Minutes September 15, 2026](committee-meeting-notes/2026-meeting-minutes/meeting-minutes-september-15-2026.md)
     * [Meeting Minutes September 29, 2026](committee-meeting-notes/2026-meeting-minutes/meeting-minutes-september-29-2026.md)
+    * [Meeting Minutes October 13, 2026](committee-meeting-notes/2026-meeting-minutes/meeting-minutes-october-13-2026.md)
   * [2025 Meeting Minutes](committee-meeting-notes/2025-meeting-minutes/README.md)
     * [Meeting Minutes January 7, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-january-7-2025.md)
     * [Meeting Minutes January 21, 2025](committee-meeting-notes/2025-meeting-minutes/meeting-minutes-january-21-2025.md)
